@@ -1,6 +1,6 @@
 {
   "name": "@stratpoint-fe/react-onclickout",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "description": "An ES6-friendly on-click-outside React component.",
   "main": "index.js",
   "scripts": {
