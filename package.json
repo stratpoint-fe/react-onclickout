@@ -1,6 +1,6 @@
 {
-  "name": "react-onclickout",
-  "version": "2.0.7",
+  "name": "@paolodapul/react-onclickout",
+  "version": "2.0.7-fork.1",
   "description": "An ES6-friendly on-click-outside React component.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boblauer/react-onclickout.git"
+    "url": "git+https://github.com/paolodapul/react-onclickout"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "Bob Lauer <rlauer@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/boblauer/react-onclickout/issues"
+    "url": "https://github.com/paolodapul/react-onclickout/issues"
   },
-  "homepage": "https://github.com/boblauer/react-onclickout#readme",
+  "homepage": "https://github.com/paolodapul/react-onclickout#readme",
   "peerDependencies": {
     "react": "^15.x || ^16.x || ^18.x",
     "react-dom": "^15.x || ^16.x || ^18.x"
