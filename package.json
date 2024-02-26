@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stratpoint-fe/react-onclickout"
+    "url": "git+https://github.com/stratpoint-fe/react-onclickout.git"
   },
   "keywords": [
     "react",
