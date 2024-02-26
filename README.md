@@ -9,7 +9,7 @@ This component was created specifically to support ES6-style React components. I
 ## Installation
 
 ```
-npm install @paolodapul/react-onclickout --save
+npm install @stratpoint-fe/react-onclickout --save
 ```
 
 ## React Version Support
